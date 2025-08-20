@@ -1,6 +1,8 @@
 # Moveworks Data Pipeline
 
-A robust Python-based data pipeline that extracts data from the Moveworks Analytics API and loads it into Snowflake with comprehensive analytics views.
+A robust Python-based data pipeline that extracts data from the Moveworks Data API and loads it into Snowflake with comprehensive analytics views.
+
+You can download sample API responses for each endpoint from here: [Sample Responses](https://github.com/moveworks/data-api/raw/refs/heads/main/Sample%20responses.zip)
 
 ## 🎯 Overview
 
